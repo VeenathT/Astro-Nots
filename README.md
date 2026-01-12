@@ -36,11 +36,3 @@ You can read the detailed project report, which outlines our research, findings,
 [Project Report](https://github.com/user-attachments/files/17636869/HCI_Report.pdf).
 
 
-### Contributors
-
-- **Veenath G.D.T**
-- **Kandage T.P** 
-- **Malmali W.S.V.M.O** 
-- **Panditharathne R.L** 
-- **Lakshika D.A.S.T**
-
